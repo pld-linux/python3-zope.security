@@ -10,7 +10,7 @@ Summary:	Zope Security framework
 Summary(pl.UTF-8):	Szkielet bezpieczeństwa dla Zope
 Name:		python-%{module}
 Version:	5.2
-Release:	1
+Release:	2
 License:	ZPL v2.1
 Group:		Libraries/Python
 Source0:	https://files.pythonhosted.org/packages/source/z/zope.security/zope.security-%{version}.tar.gz
